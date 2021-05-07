@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriviaGameAdministration", "TriviaGameAdministration\TriviaGameAdministration.csproj", "{DFC5E43F-9861-43C6-8ACB-AB34FEBF6C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC5E43F-9861-43C6-8ACB-AB34FEBF6C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC5E43F-9861-43C6-8ACB-AB34FEBF6C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC5E43F-9861-43C6-8ACB-AB34FEBF6C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC5E43F-9861-43C6-8ACB-AB34FEBF6C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB69002-0DF4-46D5-9402-37F2C01B375A}
+	EndGlobalSection
+EndGlobal
