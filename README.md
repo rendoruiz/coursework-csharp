@@ -7,4 +7,4 @@ The course tackles C# fundamentals using console applications.
 ## Activities include:
 - specialized calculators
 - trivia game creator & player
-- tic-tac-toe
+- tic-tac-toe game
